@@ -1,0 +1,13 @@
+header{
+    outline: 1px yellow;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    padding: 0%;
+}
+header button{
+    padding: 0%;
+    border-color: red;
+    font-weight: 100;
+}
